@@ -11,7 +11,7 @@ const ChatLayout = () => {
       <Stack.Screen
         name="index"
         options={{
-          title: "Chat",
+          title: "Chats",
           headerTransparent: true,
           headerLargeTitle: true,
           headerLeft: () => (
